@@ -1,4 +1,4 @@
-package Models;
+package Model;
 
 public class User {
     private String id;//只读
